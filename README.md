@@ -31,4 +31,3 @@ scenarios.
 - Detected missing or inconsistent address data for data quality validation.
 - Evaluated employee sales performance and reporting hierarchy.
 
-- 
